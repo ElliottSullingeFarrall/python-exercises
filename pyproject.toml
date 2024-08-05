@@ -22,7 +22,7 @@ scipy = "^1.12.0"
 sympy = "^1.12"
 tqdm = "^4.66.2"
 astroquery = "^0.4.7"
-astropy = "^6.0.0"
+astropy = "^6.1.2"
 
 [tool.poetry.group.dev.dependencies]
 snakeviz = "^2.2.0"
